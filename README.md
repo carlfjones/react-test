@@ -1,3 +1,7 @@
+#Learning to use React
+
+Simple web app with a form, developed to learn how to use React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
