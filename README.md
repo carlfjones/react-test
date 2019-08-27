@@ -1,4 +1,4 @@
-#Learning to use React
+# Learning to use React
 
 Simple web app with a form, developed to learn how to use React.
 
